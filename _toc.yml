@@ -1,0 +1,11 @@
+root: intro
+format: jb-book
+defaults:
+  numbered: true
+parts:
+- caption: Get started
+  chapters:
+  - file: markdown
+    # sections:
+    #   - file: publish/gh-pages
+    #   - file: publish/netlify
